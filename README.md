@@ -5,7 +5,8 @@
 
 Olá! Esse é uma primeira versão do meu portifólio.
 
-![](https://example.com/your-image.png)
+![Captura de Tela (6)](https://user-images.githubusercontent.com/122617571/236171386-629fde79-ab9b-4262-abb0-6c1767492260.png)
+
 
 
 ----------
